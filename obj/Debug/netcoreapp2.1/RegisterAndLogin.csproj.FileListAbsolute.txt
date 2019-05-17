@@ -1,0 +1,11 @@
+F:\Contents\Tutorial\RegisterAndLogin\bin\Debug\netcoreapp2.1\RegisterAndLogin.deps.json
+F:\Contents\Tutorial\RegisterAndLogin\bin\Debug\netcoreapp2.1\RegisterAndLogin.runtimeconfig.json
+F:\Contents\Tutorial\RegisterAndLogin\bin\Debug\netcoreapp2.1\RegisterAndLogin.runtimeconfig.dev.json
+F:\Contents\Tutorial\RegisterAndLogin\bin\Debug\netcoreapp2.1\RegisterAndLogin.dll
+F:\Contents\Tutorial\RegisterAndLogin\bin\Debug\netcoreapp2.1\RegisterAndLogin.pdb
+F:\Contents\Tutorial\RegisterAndLogin\obj\Debug\netcoreapp2.1\RegisterAndLogin.csprojAssemblyReference.cache
+F:\Contents\Tutorial\RegisterAndLogin\obj\Debug\netcoreapp2.1\RegisterAndLogin.csproj.CoreCompileInputs.cache
+F:\Contents\Tutorial\RegisterAndLogin\obj\Debug\netcoreapp2.1\RegisterAndLogin.AssemblyInfoInputs.cache
+F:\Contents\Tutorial\RegisterAndLogin\obj\Debug\netcoreapp2.1\RegisterAndLogin.AssemblyInfo.cs
+F:\Contents\Tutorial\RegisterAndLogin\obj\Debug\netcoreapp2.1\RegisterAndLogin.dll
+F:\Contents\Tutorial\RegisterAndLogin\obj\Debug\netcoreapp2.1\RegisterAndLogin.pdb
